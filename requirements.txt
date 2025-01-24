@@ -1,0 +1,4 @@
+Crawl4AI
+pysrt
+pydantic-ai
+requests
